@@ -1,4 +1,4 @@
-## Part 1. Игра "ТЕТРИС" на СИ
+## Part 1. Game "TETRIS" in C
 
 ### 1.1. Compiling the game
 
