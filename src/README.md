@@ -29,10 +29,10 @@
 
 ### 1.4. Managing figures.
 
-# To flip the figure, press the `w` button.
-# To speed up the figure's fall, press the `s` button.
-# To move the figure to the left, press the `a` button.
-# To move the figure to the right, press the `f` button.
+- To flip the figure, press the `w` button.
+- To speed up the figure's fall, press the `s` button.
+- To move the figure to the left, press the `a` button.
+- To move the figure to the right, press the `f` button.
 
 ![Компиляция](images/1.5.png)
 
