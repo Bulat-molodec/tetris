@@ -7,13 +7,13 @@
 3) Run the command `./tetris`
 4) The game is launched
 
-![Компиляция](images/1.1.png)
+![Компиляция](src/images/1.1.png)
 
 ### 1.2. Start of the game
 
  1) Press `Enter`
 
-![Компиляция](images/1.2.png)
+![Компиляция](src/images/1.2.png)
 
  2) The game has begun
 
