@@ -17,13 +17,13 @@
 
  2) The game has begun
 
-![Компиляция](images/1.3.png)
+![Компиляция](src/images/1.3.png)
 
 ### 1.3. Pause and end the game
 
  1) When you press the `p` button, the game goes into pause mode
 
-![Компиляция](images/1.4.png)
+![Компиляция](src/images/1.4.png)
 
  2) Pressing the `q` button ends the game.
 
@@ -34,7 +34,7 @@
 - To move the figure to the left, press the `a` button.
 - To move the figure to the right, press the `f` button.
 
-![Компиляция](images/1.5.png)
+![Компиляция](src/images/1.5.png)
 
 ### 1.5. Clearing a directory of files.
 
